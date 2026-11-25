@@ -4,9 +4,7 @@
   "displayName": "Adspirer Retail Ads",
   "version": "1.0.0",
   "description": "Run Amazon Ads and Walmart Connect: report ACoS and ROAS, find wasted spend, manage Sponsored Products bids. Campaigns start paused; changes need approval.",
-  "category": [
-    "Marketing"
-  ],
+  "category": "Business",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Show spend, attributed sales, ACoS and ROAS for my Amazon campaigns over the last 30 days",
