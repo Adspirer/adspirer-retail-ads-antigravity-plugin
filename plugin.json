@@ -1,0 +1,40 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "adspirer-retail-ads",
+  "displayName": "Adspirer Retail Ads",
+  "version": "1.0.0",
+  "description": "Run Amazon Ads and Walmart Connect: report ACoS and ROAS, find wasted spend, manage Sponsored Products bids. Campaigns start paused; changes need approval.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Show spend, attributed sales, ACoS and ROAS for my Amazon campaigns over the last 30 days",
+    "Which Amazon search terms and products are spending without selling?",
+    "Plan a paused Walmart Sponsored Products campaign for my top items"
+  ],
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com",
+    "url": "https://www.adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com/retail-media",
+  "repository": "https://github.com/Adspirer/adspirer-retail-ads-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "adspirer",
+    "advertising",
+    "retail media",
+    "ecommerce advertising",
+    "amazon ads",
+    "amazon ppc",
+    "sponsored products",
+    "sponsored brands",
+    "walmart connect",
+    "walmart ads",
+    "acos",
+    "roas",
+    "tacos",
+    "search terms",
+    "keyword research",
+    "bid management",
+    "wasted spend"
+  ]
+}
